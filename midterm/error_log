@@ -1,0 +1,16 @@
+[20-Dec-2020 17:59:48 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/starxdev/public_html/bookdepo/insertform.php on line 4
+[20-Dec-2020 18:01:15 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/starxdev/public_html/bookdepo/insertform.php on line 6
+[20-Dec-2020 18:18:09 UTC] PHP Parse error:  syntax error, unexpected 'name' (T_STRING), expecting ';' or ',' in /home4/starxdev/public_html/bookdepo/insertform.php on line 255
+[20-Dec-2020 19:09:14 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/starxdev/public_html/bookdepo/index.php on line 21
+[20-Dec-2020 19:11:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/starxdev/public_html/bookdepo/index.php on line 389
+[20-Dec-2020 19:11:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/starxdev/public_html/bookdepo/index.php on line 391
+[20-Dec-2020 19:19:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home4/starxdev/public_html/bookdepo/insertform.php on line 13
+[20-Dec-2020 19:55:47 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home4/starxdev/public_html/bookdepo/update.php on line 242
+[20-Dec-2020 20:14:19 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/starxdev/public_html/bookdepo/update.php on line 26
+[20-Dec-2020 20:22:21 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/starxdev/public_html/bookdepo/delete.php on line 4
+[20-Dec-2020 20:22:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/starxdev/public_html/bookdepo/delete.php on line 9
+[20-Dec-2020 20:22:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/starxdev/public_html/bookdepo/delete.php on line 5
+[20-Dec-2020 20:29:22 UTC] PHP Parse error:  syntax error, unexpected '{' in /home4/starxdev/public_html/bookdepo/index.php on line 202
+[20-Dec-2020 20:30:04 UTC] PHP Parse error:  syntax error, unexpected '{' in /home4/starxdev/public_html/bookdepo/index.php on line 202
+[20-Dec-2020 20:30:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home4/starxdev/public_html/bookdepo/index.php on line 202
+[20-Dec-2020 22:16:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home4/starxdev/public_html/bookdepo/update.php on line 415
